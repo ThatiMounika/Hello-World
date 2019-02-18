@@ -1,2 +1,2 @@
 # Hello-World
-This is my sample repository in GitHub.
+This is my first repository in GitHub.
